@@ -1,0 +1,311 @@
+[
+  //
+  //
+  // Version Control
+  //
+  // - merge-conflict.accept.all-both
+  // - merge-conflict.accept.all-current
+  // - merge-conflict.accept.all-incoming
+  // - merge-conflict.accept.both
+  // - merge-conflict.accept.current
+  // - merge-conflict.accept.incoming
+  // - merge-conflict.accept.selection
+  // - merge-conflict.compare
+  // - merge-conflict.next
+  // - merge-conflict.previous
+  {
+    "key": "ctrl+cmd+p",
+    "command": "merge-conflict.previous"
+  },
+  {
+    "key": "ctrl+cmd+n",
+    "command": "merge-conflict.next"
+  },
+  {
+    "key": "cmd+shift+m",
+    "command": "merge-conflict.accept.both"
+  },
+  {
+    "key": "cmd+shift+,",
+    "command": "merge-conflict.accept.current"
+  },
+  {
+    "key": "cmd+shift+.",
+    "command": "merge-conflict.accept.incoming"
+  },
+  {
+    "key": "ctrl+g r",
+    "command": "git.revertSelectedRanges"
+  },
+  {
+    "key": "ctrl+g o",
+    "command": "git.openChange"
+  },
+  {
+    "key": "ctrl+g s",
+    "command": "git.stageSelectedRanges"
+  },
+  //
+  //
+  // Workspaces
+  //
+  {
+    "key": "cmd+shift+r",
+    "command": "workbench.action.openRecent"
+  },
+
+  // 
+  //
+  // Cursor
+  //
+  // - aipopup.action.acceptPromptBar
+  // - aipopup.action.addContextToBackgroundForCmdK
+  // - aipopup.action.cancelPromptBar
+  // - aipopup.action.cmdKRemoveFollowup
+  // - aipopup.action.createInBackground
+  // - aipopup.action.focusEdit
+  // - aipopup.action.insertEditSelection
+  // - aipopup.action.nextPromptBar
+  // - aipopup.action.rejectPromptBar
+  //
+  // - aichat.addEverythingAboutSymbolToCurrentChatAction
+  // - aichat.addfilestochataction
+  // - aichat.addfilestonewchataction
+  // - aichat.addsymbolstochataction
+  // - aichat.addsymbolstonewchataction
+  // - aichat.close-sidebar
+  // - aichat.fixspecificerrormessage
+  // - aichat.focus
+  // - aichat.focuschatpaneaction
+  // - aichat.hidechatdropdown
+  // - aichat.internal.submitUnifiedChatAction
+  // - aichat.newchatbuttonaction
+  // - aichat.open-ai-chat-editor
+  // - aichat.open-ai-chat-side-pane
+  // - aichat.opensidebar
+  // - aichat.setcodeblockaction
+  // - aichat.show-ai-chat
+  // - aichat.sladsheditsubmitfrombutton
+  // - aichat.warmfastapply
+  {
+    "key": "ctrl+a a",
+    "command": "aichat.warmfastapply"
+  },
+  {
+    "key": "ctrl+a y",
+    "command": "aipopup.action.acceptPromptBar"
+  },
+  {
+    "key": "ctrl+a n",
+    "command": "aipopup.action.rejectPromptBar"
+  },
+  {
+    "key": "ctrl+a n",
+    "command": "aipopup.action.nextPromptBar"
+  },
+
+
+  //
+  //
+  // Windows
+  //
+  // - workbench.action.quickOpenLeastRecentlyUsedEditor
+  // - workbench.action.quickOpenNavigateNext
+  // - workbench.action.quickOpenNavigateNextInTerminalPicker
+  // - workbench.action.quickOpenNavigatePrevious
+  // - workbench.action.quickOpenNavigatePreviousInTerminalPicker
+  // - workbench.action.quickOpenPreviousEditor
+  // - workbench.action.quickOpenPreviousRecentlyUsedEditor
+  // - workbench.action.quickOpenRecent
+  // - workbench.action.quickOpenTerm
+  {
+    "key": "cmd+shift+j",
+    "command": "workbench.action.toggleMaximizedPanel"
+  },
+  {
+    "key": "ctrl+b",
+    "command": "workbench.action.quickOpenPreviousRecentlyUsedEditor"
+  },
+  {
+    "key": "alt+t",
+    "command": "workbench.action.quickOpenTerm"
+  },
+  //
+  //
+  // Debug
+  //
+  {
+    "key": "cmd+ctrl+l",
+    "command": "workbench.debug.panel.action.clearReplAction"
+  },
+  //
+  //
+  // Editor
+  //
+  {
+    "key": "ctrl+e i",
+    "command": "editor.action.showHover",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+e i",
+    "command": "editor.debug.action.showDebugHover",
+    "when": "editorTextFocus && inDebugMode"
+  },
+
+  {
+    "key": "shift+alt+x",
+    "command": "toggle",
+    "when": "editorTextFocus",
+    "args": {
+      "id": "toggle_inlay_hints",
+      "value": [
+        {
+          "editor.inlayHints.enabled": "on"
+        },
+        {
+          "editor.inlayHints.enabled": "off"
+        }
+      ]
+    }
+  },
+
+  {
+    "key": "cmd+shift+alt+ctrl+v",
+    "command": "vscode-neovim.restart"
+  },
+
+  // {
+  //   "key": "] d",
+  //   "command": "editor.action.marker.next",
+  //   "when": "editorTextFocus && !editorReadonly"
+  // },
+  // {
+  //   "key": "[ d",
+  //   "command": "editor.action.marker.previous",
+  //   "when": "editorTextFocus && !editorReadonly"
+  // },
+  // {
+  //   "key": "] c",
+  //   "command": "workbench.action.editor.nextChange",
+  //   "when": "editorTextFocus && !editorReadonly"
+  // },
+  // {
+  //   "key": "[ c",
+  //   "command": "workbench.action.editor.previousChange",
+  //   "when": "editorTextFocus && !editorReadonly"
+  // },
+
+  // noremap [c :<C-u>call VSCodeCall('workbench.action.editor.previousChange')<cr>
+  // noremap ]c :<C-u>call VSCodeCall('workbench.action.editor.nextChange')<cr>
+  {
+    "key": "ctrl+e '",
+    "command": "editor.action.toggleMinimap"
+    // "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+ctrl+t",
+    "command": "workbench.action.closeEditorsToTheRight"
+  },
+  {
+    "key": "cmd+k f2",
+    "command": "togglePeekWidgetFocus"
+  },
+  //
+  //
+  // Explorer
+  //
+  {
+    "key": "ctrl+f c",
+    "command": "workbench.files.action.collapseExplorerFolders"
+  },
+  {
+    "key": "ctrl+f a",
+    "command": "workbench.files.action.showActiveFileInExplorer"
+  },
+  {
+    "key": "enter",
+    "command": "renameFile",
+    "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+  },
+  //
+  //
+  // Terminal
+  //
+  {
+    "key": "alt+l",
+    "command": "workbench.action.terminal.focusNextPane",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+h",
+    "command": "workbench.action.terminal.focusPreviousPane",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+shift+l",
+    "command": "workbench.action.terminal.focusNext",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+shift+h",
+    "command": "workbench.action.terminal.focusPrevious",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+\\",
+    "command": "workbench.action.terminal.split",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+k shift+w",
+    "command": "workbench.action.closeEditorsInOtherGroups"
+  },
+  {
+    "key": "ctrl+cmd+j",
+    "command": "workbench.action.terminal.focus",
+    "when": "!terminalFocus"
+  },
+  {
+    "key": "ctrl+w k",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "f5",
+    "command": "rust-analyzer.run",
+    "when": "editorFocus && editorLangId == 'rust'"
+  },
+  //
+  //
+  // Misc
+  //
+  // Override Markdown bold binding that conflicts with default sidebar toggle binding
+  {
+    "key": "cmd+b",
+    "command": "workbench.action.toggleSidebarVisibility",
+    "when": "editorTextFocus && !editorReadonly && editorLangId == 'mdx'"
+  },
+  {
+    "key": "cmd+b",
+    "command": "workbench.action.toggleSidebarVisibility",
+    "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+  },
+
+  {
+    "key": "alt+cmd+l",
+    "command": "toggle",
+    "when": "editorTextFocus",
+    "args": {
+        "id": "lineNumbers",
+        "value": [
+            {
+              "editor.lineNumbers": "relative",
+            },
+            {
+              "editor.lineNumbers": "on",
+            }
+        ]
+    }
+}
+]
