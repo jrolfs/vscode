@@ -154,5 +154,6 @@
   "rubyLsp.rubyExecutablePath": "/Users/jamie/Developer/Hover/hyperion/.devbox/nix/profile/default/bin/ruby",
   "nix.enableLanguageServer": true,
   "nix.serverPath": "nil",
-  "workbench.editor.editorActionsLocation": "hidden"
+  "workbench.editor.editorActionsLocation": "hidden",
+  "cursor.cmdk.useThemedDiffBackground": true
 }

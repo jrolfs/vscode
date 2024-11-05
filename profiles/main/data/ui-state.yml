@@ -1,7 +1,8 @@
+denoland.vscode-deno: '{"deno.welcomeShown":true}'
 workbench.accounts.experimental.showEntitlements: "false"
 workbench.auxiliaryBar.size: "400"
 workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["javascript",true],["shellscript",true],["plaintext",true],["typescriptreact",true],["jsonc",true],["ruby",true],["json",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["javascript",true],["shellscript",true],["ruby",true],["yaml",true],["jsonc",true],["graphql",true],["json",true],["plaintext",true],["typescript",true],["typescriptreact",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"dependencies","isHidden":false}]'
 workbench.grid.size: '{"height":740,"width":1024}'
 workbench.panel.aichat.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
@@ -9,7 +10,7 @@ workbench.panel.aichat.view.aichat.chatdata: '{"tabs":[{"tabId":"34af86ed-b6ba-4
 workbench.panel.aipaneaaaireview.hidden: '[{"id":"workbench.panel.aipane.viewaaaireview","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chatSidebar.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
-workbench.panel.lastNonMaximizedHeight: "300"
+workbench.panel.lastNonMaximizedHeight: "246"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'

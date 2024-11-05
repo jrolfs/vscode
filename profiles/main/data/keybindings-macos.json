@@ -54,7 +54,7 @@
     "command": "workbench.action.openRecent"
   },
 
-  // 
+  //
   //
   // Cursor
   //
@@ -104,6 +104,16 @@
     "command": "aipopup.action.nextPromptBar"
   },
 
+  {
+    "key": "ctrl+w shift+l",
+    "command": "workbench.action.moveEditorToRightGroup",
+    "when": "activeAIChatEditor"
+  },
+  {
+    "key": "ctrl+w shift+h",
+    "command": "workbench.action.moveEditorToLeftGroup",
+    "when": "activeAIChatEditor"
+  },
 
   //
   //
@@ -297,15 +307,15 @@
     "command": "toggle",
     "when": "editorTextFocus",
     "args": {
-        "id": "lineNumbers",
-        "value": [
-            {
-              "editor.lineNumbers": "relative",
-            },
-            {
-              "editor.lineNumbers": "on",
-            }
-        ]
+      "id": "lineNumbers",
+      "value": [
+        {
+          "editor.lineNumbers": "relative"
+        },
+        {
+          "editor.lineNumbers": "on"
+        }
+      ]
     }
-}
+  }
 ]
