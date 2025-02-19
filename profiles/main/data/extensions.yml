@@ -1,7 +1,7 @@
-disabled:
-  - id: asvetliakov.vscode-neovim
-    uuid: 00000000-0000-0000-0000-000000000000
+disabled: []
 enabled:
+  - id: asvetliakov.vscode-neovim
+    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: denoland.vscode-deno
