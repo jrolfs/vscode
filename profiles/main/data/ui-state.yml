@@ -71,8 +71,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
   ]"
 workbench.activityBar.location: default
-workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
-workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeIcon":{"id":"comment-discussion"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.aichat","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.composerViewPane2","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aipaneaaaiBugFinder","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.aichat","themeIcon":{"id":"files"},"name":"Chat","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.composerViewPane2","themeIcon":{"id":"files"},"name":"Composer","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.aipaneaaaiBugFinder","themeIcon":{"id":"bug"},"name":"Bug
+  Finder","isBuiltin":true,"views":[{"when":"true"}]},{"id":"workbench.panel.chat","themeIcon":{"id":"comment-discussion"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
   || chatPanelParticipantRegistered || chatSetupInstalled || chatSetupTriggered
   &&
   config.chat.experimental.offerSetup"}]},{"id":"workbench.panel.chatEditing","themeIcon":{"id":"edit-session"},"name":"Copilot
@@ -81,18 +82,21 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
 workbench.auxiliaryBar.size: "400"
 workbench.chat.hideWelcomeView: "true"
 workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["ruby",true],["yaml",true],["mdx",true],["jsonc",true],["javascript",true],["graphql",true],["json",true],["typescript",true],["typescriptreact",true],["plaintext",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"dependencies","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["mdx",true],["graphql",true],["dockerfile",true],["shellscript",true],["nix",true],["jsonc",true],["javascript",true],["json",true],["yaml",true],["typescript",true],["typescriptreact",true],["plaintext",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"dependencies","isHidden":false},{"id":"notepad","isHidden":false}]'
 workbench.grid.size: '{"height":740,"width":1024}'
 workbench.panel.aichat.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
 workbench.panel.aichat.view.aichat.chatdata: '{"tabs":[{"tabId":"34af86ed-b6ba-471d-b1ab-bcd23759a519","tabState":"chat","bubbles":[{"notepads":[],"selections":[],"fileSelections":[],"folderSelections":[],"selectedDocs":[],"selectedCommits":[],"selectedPullRequests":[],"terminalSelections":[],"terminalFiles":[],"quotes":[],"externalLinks":[],"selectedImages":[],"useWeb":false,"mentions":{"notepads":{},"selections":{},"fileSelections":{},"folderSelections":{},"selectedDocs":{},"selectedCommits":{},"selectedPullRequests":{},"terminalSelections":{},"terminalFiles":{},"quotes":{},"externalLinks":{},"selectedImages":{},"gitDiff":[],"gitDiffFromBranchToMain":[],"usesCodebase":[],"useWeb":[]},"type":"user","id":"a85f49fe-7d7a-4093-a8aa-9a9c6612c881","messageType":2,"dropdownAdvancedCodebaseSearchBehavior":"embeddings","followup":false,"isFocused":false}],"longContextModeEnabled":false,"lastFocusedBubbleId":"a85f49fe-7d7a-4093-a8aa-9a9c6612c881"}],"codeInterpreterTabs":[],"selectedTabId":"34af86ed-b6ba-471d-b1ab-bcd23759a519","displayTabs":false,"editorContext":{"isNotebook":false,"hasNonemptySelection":false},"debugPromptVisible":false,"pinnedContexts":{"fileSelections":[],"codeSelections":[]},"inputBoxDelegate":{"c":{"__lexicalTextContent":"","__lexicalDirTextContent":"","__lexicalDir":null,"__lexicalEditor":{"editorState":{"root":{"children":[{"children":[],"direction":null,"format":"","indent":0,"type":"paragraph","version":1}],"direction":null,"format":"","indent":0,"type":"root","version":1}}},"__lexicalEventHandles":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"d":{"editorState":{"root":{"children":[{"children":[],"direction":null,"format":"","indent":0,"type":"paragraph","version":1}],"direction":null,"format":"","indent":0,"type":"root","version":1}}},"e":false},"inputBoxDelegateMap":{},"chatDataVersion":0}'
+workbench.panel.aipaneaaaiBugFinder.hidden: '[{"id":"workbench.panel.aipane.viewaaaiBugFinder","isHidden":false}]'
 workbench.panel.aipaneaaaireview.hidden: '[{"id":"workbench.panel.aipane.viewaaaireview","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
 workbench.panel.chatEditing.hidden: '[{"id":"workbench.panel.chat.view.edits","isHidden":false}]'
 workbench.panel.chatSidebar.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
+workbench.panel.composerChatViewPane.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
+workbench.panel.composerViewPane2.hidden: '[{"id":"workbench.panel.composerViewPane2.view","isHidden":false}]'
 workbench.panel.lastNonMaximizedHeight: "246"
-workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.lastNonMaximizedWidth: "1228"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.playwrightContainer","pinned":true,"visible":false,"order":7},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
@@ -100,7 +104,7 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon"
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
   Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"gitlens:plus:enabled
   && !gitlens:disabled"},{"when":"gitlens:plus:enabled &&
-  !gitlens:disabled"}]},{"id":"workbench.view.extension.playwrightContainer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/ms-playwright.playwright-1.1.13/images/playwright-logo.png","scheme":"file"},"name":"Playwright","isBuiltin":false,"views":[{}]},{"id":"workbench.panel.comments","themeIcon":{"id":"comments-view-icon"},"name":"Comments","isBuiltin":true,"views":[]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  !gitlens:disabled"}]},{"id":"workbench.view.extension.playwrightContainer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/ms-playwright.playwright-1.1.13/images/playwright-logo.png","scheme":"file"},"name":"Playwright","isBuiltin":false,"views":[{}]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "246"
