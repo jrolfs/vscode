@@ -181,7 +181,7 @@
   },
 
   {
-    "key": "cmd+shift+alt+ctrl+v",
+    "key": "cmd+shift+alt+ctrl+n",
     "command": "vscode-neovim.restart"
   },
 
@@ -217,10 +217,10 @@
     "key": "alt+ctrl+t",
     "command": "workbench.action.closeEditorsToTheRight"
   },
-  {
-    "key": "cmd+k f2",
-    "command": "togglePeekWidgetFocus"
-  },
+  // {
+  //   "key": "cmd+k f2",
+  //   "command": "togglePeekWidgetFocus"
+  // },
   //
   //
   // Explorer
@@ -267,10 +267,10 @@
     "command": "workbench.action.terminal.split",
     "when": "terminalFocus"
   },
-  {
-    "key": "cmd+k shift+w",
-    "command": "workbench.action.closeEditorsInOtherGroups"
-  },
+  // {
+  //   "key": "cmd+k shift+w",
+  //   "command": "workbench.action.closeEditorsInOtherGroups"
+  // },
   {
     "key": "ctrl+cmd+j",
     "command": "workbench.action.terminal.focus",
@@ -304,18 +304,42 @@
 
   {
     "key": "alt+cmd+l",
+    "command": "macros.toggleLinting"
+  },
+  // {
+  //   "key": "alt+cmd+l",
+  //   "command": "toggle",
+  //   "when": "editorTextFocus",
+  //   "args": {
+  //     "id": "lineNumbers",
+  //     "value": [
+  //       {
+  //         "editor.lineNumbers": "relative"
+  //       },
+  //       {
+  //         "editor.lineNumbers": "on"
+  //       }
+  //     ]
+  //   }
+  // },
+  {
+    "key": "alt+cmd+e",
     "command": "toggle",
-    "when": "editorTextFocus",
+    // "when": "editorTextFocus",
     "args": {
-      "id": "lineNumbers",
+      "id": "jamieLint",
       "value": [
         {
-          "editor.lineNumbers": "relative"
+          "eslint.options.overrideConfigFile": "jamie.eslint.config.mjs"
         },
         {
-          "editor.lineNumbers": "on"
+          "eslint.options.overrideConfigFile": null
         }
       ]
     }
+  },
+  {
+    "key": "cmd+i",
+    "command": "composerMode.agent"
   }
 ]
