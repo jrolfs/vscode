@@ -10,7 +10,6 @@
   "editor.inlineSuggest.enabled": true,
   "editor.lineNumbers": "on",
   "editor.matchBrackets": "near",
-  "editor.minimap.enabled": false,
   "editor.occurrencesHighlight": "singleFile",
   "editor.overviewRulerBorder": false,
   "editor.renderLineHighlight": "none",
@@ -209,6 +208,7 @@
     "coder-vscode.workstations.production.hover.to--jamierolfs--gml-engine-jamie.main": "linux"
   },
   "remote.SSH.connectTimeout": 1800,
+  "eslint.rules.customizations": [],
   "macros": {
     "toggleLinting": [
       {
@@ -216,12 +216,22 @@
         "args": {
           "id": "jamieLintToggle",
           "value": [
-            { "eslint.options.overrideConfigFile": "jamie.eslint.config.mjs" },
-            { "eslint.options.overrideConfigFile": null }
+            {
+              "eslint.options": { "overrideConfigFile": null }
+            },
+            {
+              "eslint.options": {
+                "overrideConfigFile": "jamie.eslint.config.mjs"
+              }
+            }
           ]
         }
       },
       "eslint.restart"
     ]
+  },
+  "editor.minimap.enabled": false,
+  "eslint.options": {
+    "overrideConfigFile": "jamie.eslint.config.mjs"
   }
 }

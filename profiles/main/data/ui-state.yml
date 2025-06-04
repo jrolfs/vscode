@@ -3,7 +3,7 @@ denoland.vscode-deno: '{"deno.welcomeShown":true}'
 GitHub.copilot: '{"installedVersion":"1.293.0"}'
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
 ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["config.python.analysis.supportRestructuredText","config.python.locator","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","msEntraShowUpdateUserFlow","pythonTerminalEnvVarActivation","validate_mi"],"assignmentContext":"vsliv368:30146709;962ge761:30959799;pythonrstrctxt:31112756;nativeloc1:31192215;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;usemplatestapi:31297334;","configs":[{"Id":"vscode","Parameters":{"config.python.analysis.supportRestructuredText":true,"config.python.locator":"native","config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"msEntraShowUpdateUserFlow":true,"pythonTerminalEnvVarActivation":true,"validate_mi":true}}]}}'
-ms-vscode-remote.remote-containers: '{"localExtensions":["coder.coder-remote","dbaeumer.vscode-eslint","denoland.vscode-deno","esbenp.prettier-vscode","GitHub.copilot","GitHub.copilot-chat","github.vscode-github-actions","GraphQL.vscode-graphql","GraphQL.vscode-graphql-syntax","jnoortheen.nix-ide","mikoz.black-py","misogi.ruby-rubocop","mkhl.direnv","ms-playwright.playwright","ms-python.debugpy","ms-python.python","ms-python.vscode-pylance","ms-vscode-remote.remote-containers","ms-vscode-remote.remote-ssh","ms-vscode-remote.remote-ssh-edit","ms-vscode.remote-explorer","naumovs.color-highlight","rebornix.toggle","sainnhe.gruvbox-material","Shopify.ruby-lsp","subframe7536.custom-ui-style","sysoev.vscode-open-in-github","unifiedjs.vscode-mdx","YoavBls.pretty-ts-errors","zokugun.cron-tasks","zokugun.sync-settings"],"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"devcontainers.controlManifest":{"timestamp":"2025-04-28T22:59:40.173Z","manifest":{"disallowedFeatures":[{"featureIdPrefix":"ghcr.io/devcontainers/features/disallowed-feature","documentationURL":"https://github.com/devcontainers/features/tree/main/src/disallowed-feature#readme"},{"featureIdPrefix":"ghcr.io/chrmarti/test-features/test-disallowed-feature","documentationURL":"https://github.com/chrmarti/test-features/tree/main/src/test-disallowed-feature#readme"}],"featureAdvisories":[{"featureId":"ghcr.io/devcontainers/features/feature-with-advisory","introducedInVersion":"1.0.7","fixedInVersion":"1.1.10","description":"Feature
+ms-vscode-remote.remote-containers: '{"localExtensions":["coder.coder-remote","dbaeumer.vscode-eslint","denoland.vscode-deno","eamodio.gitlens","esbenp.prettier-vscode","geddski.macros","GitHub.copilot","GitHub.copilot-chat","GitHub.remotehub","github.vscode-github-actions","GraphQL.vscode-graphql","GraphQL.vscode-graphql-syntax","jnoortheen.nix-ide","mikoz.black-py","misogi.ruby-rubocop","mkhl.direnv","ms-playwright.playwright","ms-python.debugpy","ms-python.python","ms-python.vscode-pylance","ms-vscode-remote.remote-containers","ms-vscode-remote.remote-ssh","ms-vscode-remote.remote-ssh-edit","ms-vscode.azure-repos","ms-vscode.remote-explorer","ms-vscode.remote-repositories","naumovs.color-highlight","rebornix.toggle","sainnhe.gruvbox-material","Shopify.ruby-lsp","subframe7536.custom-ui-style","sysoev.vscode-open-in-github","unifiedjs.vscode-mdx","YoavBls.pretty-ts-errors","zokugun.cron-tasks","zokugun.sync-settings"],"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"devcontainers.controlManifest":{"timestamp":"2025-04-28T22:59:40.173Z","manifest":{"disallowedFeatures":[{"featureIdPrefix":"ghcr.io/devcontainers/features/disallowed-feature","documentationURL":"https://github.com/devcontainers/features/tree/main/src/disallowed-feature#readme"},{"featureIdPrefix":"ghcr.io/chrmarti/test-features/test-disallowed-feature","documentationURL":"https://github.com/chrmarti/test-features/tree/main/src/test-disallowed-feature#readme"}],"featureAdvisories":[{"featureId":"ghcr.io/devcontainers/features/feature-with-advisory","introducedInVersion":"1.0.7","fixedInVersion":"1.1.10","description":"Feature
   with advisory for
   testing.","documentationURL":"https://github.com/devcontainers/features/tree/main/src/feature-with-advisory#readme"},{"featureId":"ghcr.io/chrmarti/test-features/test-feature-with-advisory-one","introducedInVersion":"1.0.0","fixedInVersion":"1.0.2","description":"Feature
   1 with advisory 1 for
@@ -92,15 +92,15 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.aichat","them
   config.chat.experimental.offerSetup"}]},{"id":"workbench.panel.chatEditing","themeIcon":{"id":"edit-session"},"name":"Copilot
   Edits","isBuiltin":true,"views":[{"when":"chatEditingParticipantRegistered ||
   chatSetupInstalled"}]}]'
-workbench.auxiliaryBar.size: "422"
+workbench.auxiliaryBar.size: "408"
 workbench.backgroundComposer.persistentData: '{"archivedBcIds":[],"showControlPanel":false,"selectedTab":"personal","dataVersion":1}'
 workbench.chat.hideWelcomeView: "true"
 workbench.contrib.onboarding.browser.changeManagement.03122025.shown: "true"
 workbench.contrib.onboarding.browser.changePopup.03292025.shown: "true"
 workbench.contrib.onboarding.browser.changeRemainingCmdBackspaceKeybindings.04012025.shown: "true"
 workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["graphql",true],["dockerfile",true],["python",true],["ruby",true],["plaintext",true],["json",true],["github-actions-workflow",true],["typescript",true],["shellscript",true],["javascript",true],["jsonc",true],["typescriptreact",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"dependencies","isHidden":false},{"id":"notepad","isHidden":false},{"id":"backgroundComposerExplorer","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ruby",true],["github-actions-workflow",true],["shellscript",true],["ignore",true],["xml",true],["json",true],["javascript",true],["jsonc",true],["typescriptreact",true],["python",true],["plaintext",true],["typescript",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"dependencies","isHidden":false},{"id":"notepad","isHidden":false},{"id":"backgroundComposerExplorer","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
 workbench.grid.size: '{"height":740,"width":1024}'
 workbench.panel.aichat.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
 workbench.panel.aichat.view.aichat.chatdata: '{"tabs":[{"tabId":"34af86ed-b6ba-471d-b1ab-bcd23759a519","tabState":"chat","bubbles":[{"notepads":[],"selections":[],"fileSelections":[],"folderSelections":[],"selectedDocs":[],"selectedCommits":[],"selectedPullRequests":[],"terminalSelections":[],"terminalFiles":[],"quotes":[],"externalLinks":[],"selectedImages":[],"useWeb":false,"mentions":{"notepads":{},"selections":{},"fileSelections":{},"folderSelections":{},"selectedDocs":{},"selectedCommits":{},"selectedPullRequests":{},"terminalSelections":{},"terminalFiles":{},"quotes":{},"externalLinks":{},"selectedImages":{},"gitDiff":[],"gitDiffFromBranchToMain":[],"usesCodebase":[],"useWeb":[]},"type":"user","id":"a85f49fe-7d7a-4093-a8aa-9a9c6612c881","messageType":2,"dropdownAdvancedCodebaseSearchBehavior":"embeddings","followup":false,"isFocused":false}],"longContextModeEnabled":false,"lastFocusedBubbleId":"a85f49fe-7d7a-4093-a8aa-9a9c6612c881"}],"codeInterpreterTabs":[],"selectedTabId":"34af86ed-b6ba-471d-b1ab-bcd23759a519","displayTabs":false,"editorContext":{"isNotebook":false,"hasNonemptySelection":false},"debugPromptVisible":false,"pinnedContexts":{"fileSelections":[],"codeSelections":[]},"inputBoxDelegate":{"c":{"__lexicalTextContent":"","__lexicalDirTextContent":"","__lexicalDir":null,"__lexicalEditor":{"editorState":{"root":{"children":[{"children":[],"direction":null,"format":"","indent":0,"type":"paragraph","version":1}],"direction":null,"format":"","indent":0,"type":"root","version":1}}},"__lexicalEventHandles":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"d":{"editorState":{"root":{"children":[{"children":[],"direction":null,"format":"","indent":0,"type":"paragraph","version":1}],"direction":null,"format":"","indent":0,"type":"root","version":1}}},"e":false},"inputBoxDelegateMap":{},"chatDataVersion":0}'
@@ -118,28 +118,44 @@ workbench.panel.composerChatViewPane.0468a130-8292-48be-a09b-f212afc3088d.hidden
   '[{"id":"workbench.panel.aichat.view.e63e06f3-0b43-4acd-a5ba-a0be14ce88cc","isHidden":false}]'
 workbench.panel.composerChatViewPane.04c54093-46fa-47ad-b515-e653269463df.hidden:
   '[{"id":"workbench.panel.aichat.view.e6307591-46c8-45d7-b127-4d21c2bd5db8","isHidden":false}]'
+workbench.panel.composerChatViewPane.054ae4aa-ab47-4f4f-b8f5-660d71558763.hidden:
+  '[{"id":"workbench.panel.aichat.view.1c279a57-1bb9-49d6-bc9a-a6c3ce42267b","isHidden":false},{"id":"workbench.panel.aichat.view.8d693dc0-959c-4547-8bec-1b7da402a4e6","isHidden":false},{"id":"workbench.panel.aichat.view.fc82786c-fc68-49fd-babb-2efc0ea01523","isHidden":false},{"id":"workbench.panel.aichat.view.5971bf98-a319-4cfd-9052-c25c8ed3702d","isHidden":false},{"id":"workbench.panel.aichat.view.9b29f946-0210-4fdc-9a8f-8d15c2bb31b3","isHidden":false}]'
 workbench.panel.composerChatViewPane.06e43228-5061-4b85-8e90-df100ff7a9d5.hidden:
   '[{"id":"workbench.panel.aichat.view.1ffbec30-da34-43db-9de9-d08b29377e2a","isHidden":false}]'
+workbench.panel.composerChatViewPane.097af441-fce6-4d6a-ab77-e725cbe6671d.hidden:
+  '[{"id":"workbench.panel.aichat.view.99827d33-eacc-46ef-b338-377f7e8962e0","isHidden":false}]'
 workbench.panel.composerChatViewPane.0b552f19-2a45-440c-908a-fbb2d6224262.hidden:
   '[{"id":"workbench.panel.aichat.view.5056b158-38e0-4f3d-adc3-a88ce06c6f20","isHidden":false}]'
+workbench.panel.composerChatViewPane.0ca41b97-4b5a-4083-8080-68a5c4a046a3.hidden:
+  '[{"id":"workbench.panel.aichat.view.59e2d2ba-b5c6-4f18-927a-f4c392e589b1","isHidden":false}]'
 workbench.panel.composerChatViewPane.0d84970b-03e9-41f2-8273-f50f2963d29e.hidden:
   '[{"id":"workbench.panel.aichat.view.468ea569-5dc2-4ee6-a87b-a43c48bd895d","isHidden":false},{"id":"workbench.panel.aichat.view.9d59f1c5-8e1c-4bcc-b32e-365096c9b1bd","isHidden":false}]'
 workbench.panel.composerChatViewPane.0e9e53fc-e8fb-413c-8b15-02a2acfad2b7.hidden:
   '[{"id":"workbench.panel.aichat.view.2f94f82a-8b53-4ec3-a048-84a11495ff56","isHidden":false}]'
 workbench.panel.composerChatViewPane.1234a08b-21aa-47ba-8042-0fc281a90cea.hidden:
   '[{"id":"workbench.panel.aichat.view.5fd66819-44a1-4608-ae60-9750a59954e9","isHidden":false},{"id":"workbench.panel.aichat.view.91ab6db3-4d46-4384-8cf7-36584348e209","isHidden":false}]'
+workbench.panel.composerChatViewPane.12ac0f80-d8ae-4c44-bdad-7378d1f02ce5.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
+workbench.panel.composerChatViewPane.14cf324e-23c2-4c78-9485-c6c1579bbb36.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.19c2707e-a636-4381-b0c9-d14492c47dc6.hidden:
   '[{"id":"workbench.panel.aichat.view.c6462683-8881-4a11-88fb-ea4639f526dc","isHidden":false},{"id":"workbench.panel.aichat.view.9cea7aa8-3646-4219-bed3-915d0fe00c29","isHidden":false}]'
 workbench.panel.composerChatViewPane.1a2b53ca-e8fa-41e2-aa2e-7c35c6ed1874.hidden:
   '[{"id":"workbench.panel.aichat.view.91d83857-a428-4f91-b099-041cb572aab3","isHidden":false}]'
 workbench.panel.composerChatViewPane.1a526fb1-9aa1-4498-aeb5-a7a14365f386.hidden:
   '[{"id":"workbench.panel.aichat.view.e35c051c-f122-435f-93b6-ccdaf50c1757","isHidden":false}]'
+workbench.panel.composerChatViewPane.1bc0e0a1-a41d-40aa-a33d-3f6302879065.hidden:
+  '[{"id":"workbench.panel.aichat.view.604b4863-00f8-470f-b55d-7e9d7fc9e685","isHidden":false},{"id":"workbench.panel.aichat.view.b2925fbd-bd4f-4fab-bc1e-0dfefddf406a","isHidden":false},{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.20955d7f-151b-436f-8103-0659e860b71e.hidden:
   '[{"id":"workbench.panel.aichat.view.78b5863c-e5be-4e9b-9a46-91a4f0c5ac59","isHidden":false}]'
+workbench.panel.composerChatViewPane.20d7e037-1e15-4f6d-be07-053c0aafdb6f.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.20ed6f16-0e6f-419a-a2de-5cfebdb3e45b.hidden:
   '[{"id":"workbench.panel.aichat.view.ba8d5cab-efdb-4f2b-b252-6b85f58c6e66","isHidden":false}]'
 workbench.panel.composerChatViewPane.2446302e-96b9-4d27-bbb7-1bf70b9d9ebc.hidden:
   '[{"id":"workbench.panel.aichat.view.a5ded1c8-1d37-4d77-8faf-3ff4355c56c0","isHidden":false}]'
+workbench.panel.composerChatViewPane.24e51ca5-de7d-4208-9137-bb5065ed1f2b.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
 workbench.panel.composerChatViewPane.267d323a-5c3e-466a-9a17-f2ad7d15bb42.hidden:
   '[{"id":"workbench.panel.aichat.view.ffa62c53-e9fb-4f20-843c-1aec948b47d0","isHidden":false},{"id":"workbench.panel.aichat.view.b9be0353-4ed7-4228-8284-c6f00b5d999f","isHidden":false}]'
 workbench.panel.composerChatViewPane.28b9ee26-4231-4e60-af0e-b6c91e4d9a74.hidden:
@@ -160,10 +176,14 @@ workbench.panel.composerChatViewPane.367e0ce0-1a78-461c-ab03-9e73fb3a85e3.hidden
   '[{"id":"workbench.panel.aichat.view.5056b158-38e0-4f3d-adc3-a88ce06c6f20","isHidden":false},{"id":"workbench.panel.aichat.view.5f550da5-14b9-42b1-bd82-547bc113057d","isHidden":false}]'
 workbench.panel.composerChatViewPane.36adca4c-0b79-418a-b859-900dc6409942.hidden:
   '[{"id":"workbench.panel.aichat.view.1aae39ab-77ea-4ea6-a177-3c6b8f0b3367","isHidden":false},{"id":"workbench.panel.aichat.view.4e891d76-9b87-46fe-87da-5485858df54c","isHidden":false}]'
+workbench.panel.composerChatViewPane.3779897c-d4c1-4432-b6ed-7ab73c9acd45.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.380141ae-019c-48a4-9297-d702cbb3bd5d.hidden:
   '[{"id":"workbench.panel.aichat.view.7ac2bac1-8516-4e66-880f-53d9c4a93308","isHidden":false}]'
 workbench.panel.composerChatViewPane.386f5ba5-e04c-4c88-8ad6-04cfb282999d.hidden:
   '[{"id":"workbench.panel.aichat.view.f91e74c1-4387-4199-ae2a-4032c9c3bb3c","isHidden":false}]'
+workbench.panel.composerChatViewPane.3887d2b4-3fdc-4e0d-aab2-be1214d73af8.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.3b6eef87-e526-4559-83ae-253c0ca2bd98.hidden:
   '[{"id":"workbench.panel.aichat.view.0da83941-11f8-4b1c-885a-3e13b8e7d3c8","isHidden":false},{"id":"workbench.panel.aichat.view.df75d68c-ba17-45aa-9e33-16f8ad01cb07","isHidden":false}]'
 workbench.panel.composerChatViewPane.3b79b3b3-7ba1-434c-b278-3462365efba6.hidden:
@@ -172,6 +192,8 @@ workbench.panel.composerChatViewPane.3bd0439d-4ec0-45af-9cfb-1eaa19e7132c.hidden
   '[{"id":"workbench.panel.aichat.view.c3e6839b-9ce8-4fdd-80aa-537aaca28a4d","isHidden":false}]'
 workbench.panel.composerChatViewPane.3d1db183-a060-424a-8f93-0855c5bd2a59.hidden:
   '[{"id":"workbench.panel.aichat.view.05b7222b-9909-42ee-92f1-dd6de3b613c3","isHidden":false}]'
+workbench.panel.composerChatViewPane.3eaddbd6-53a0-4e07-b03b-ab059f012828.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.3f56ce7f-ff8b-4b2d-9aaf-6ff2cf533fa3.hidden:
   '[{"id":"workbench.panel.aichat.view.5b1ad730-bc1e-46cc-976f-de46ac12eebb","isHidden":false}]'
 workbench.panel.composerChatViewPane.3fd8629d-e83f-435e-9a1d-309c4677ba1d.hidden:
@@ -192,8 +214,18 @@ workbench.panel.composerChatViewPane.46cc1926-ab8c-469e-a6f8-6399e9177c49.hidden
   '[{"id":"workbench.panel.aichat.view.baf4006e-f132-4bb9-9be3-c396ecf5a876","isHidden":false}]'
 workbench.panel.composerChatViewPane.476b4e1a-507c-4105-a535-b4baf45878c0.hidden:
   '[{"id":"workbench.panel.aichat.view.63499e9e-2e7b-47b8-9057-50dfcaf06ab6","isHidden":false}]'
+workbench.panel.composerChatViewPane.480f37fc-b033-464f-8211-99fa79217c2e.hidden:
+  '[{"id":"workbench.panel.aichat.view.566bca02-71d6-48fd-bb1e-57e6def056ce","isHidden":false}]'
+workbench.panel.composerChatViewPane.48cca9a3-a72a-4d02-a18e-63e48e1b16fc.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
+workbench.panel.composerChatViewPane.4919c2b7-2b12-4ca2-a249-20355cb5098e.hidden:
+  '[{"id":"workbench.panel.aichat.view.fc82786c-fc68-49fd-babb-2efc0ea01523","isHidden":false},{"id":"workbench.panel.aichat.view.4f227ba5-827c-4798-8f89-8c99496d6d88","isHidden":false}]'
+workbench.panel.composerChatViewPane.4c2c5c04-f08c-4be8-840d-580e41af87eb.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.4c36cbeb-d31d-4dd2-9820-6aedc7517a94.hidden:
   '[{"id":"workbench.panel.aichat.view.2c83a195-81a1-425f-a7c2-e4caf481799a","isHidden":false}]'
+workbench.panel.composerChatViewPane.4d1fd045-6604-4fc8-a9f9-113f91c42d6c.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.4ebada60-7d30-4381-9a2a-71aba7b68d3f.hidden:
   '[{"id":"workbench.panel.aichat.view.c36e05e7-68dd-4e54-8840-bf360c5cb9aa","isHidden":false},{"id":"workbench.panel.aichat.view.051ec208-c59f-493d-a668-c6cd26f40f0d","isHidden":false},{"id":"workbench.panel.aichat.view.8009e0f0-bb36-481a-8bfe-29a6433f3fd8","isHidden":false}]'
 workbench.panel.composerChatViewPane.4ef580cb-519b-4980-828c-742fc0fc87a0.hidden:
@@ -202,18 +234,26 @@ workbench.panel.composerChatViewPane.5096d016-a9c0-4933-b0e6-32a27e3f1d92.hidden
   '[{"id":"workbench.panel.aichat.view.d4408b9f-4d24-4118-8130-5e4080634eab","isHidden":false},{"id":"workbench.panel.aichat.view.1f07ca12-2bda-46c8-91ab-e94be5c0b9ce","isHidden":false},{"id":"workbench.panel.aichat.view.1c279a57-1bb9-49d6-bc9a-a6c3ce42267b","isHidden":false}]'
 workbench.panel.composerChatViewPane.525a480b-c362-41bc-8476-c3096dee547a.hidden:
   '[{"id":"workbench.panel.aichat.view.a54e3616-664d-4bf6-a31c-0d980c329850","isHidden":false}]'
+workbench.panel.composerChatViewPane.54747106-4b5b-41bf-8f01-4930ee93d786.hidden:
+  '[{"id":"workbench.panel.aichat.view.188d395f-c2c8-47c1-af87-f1579f2d42d0","isHidden":false}]'
 workbench.panel.composerChatViewPane.5502ae28-ae42-482c-899d-1ee7b9361040.hidden:
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
+workbench.panel.composerChatViewPane.556a7132-d042-4be0-8d41-4907eaa93665.hidden:
+  '[{"id":"workbench.panel.aichat.view.77f3e364-f09e-4b47-b856-dbb5d0d98357","isHidden":false}]'
 workbench.panel.composerChatViewPane.55770a74-3b1c-46c4-88eb-5a11b85f588b.hidden:
   '[{"id":"workbench.panel.aichat.view.f0a2d341-9f1a-4ea2-8f44-5ccba05af3d5","isHidden":false},{"id":"workbench.panel.aichat.view.7ac2bac1-8516-4e66-880f-53d9c4a93308","isHidden":false}]'
 workbench.panel.composerChatViewPane.58c1d7e1-028f-452f-8677-f73463c82f2b.hidden:
   '[{"id":"workbench.panel.aichat.view.81f98960-6b85-4b0c-b575-30ba65dfb4d0","isHidden":false}]'
+workbench.panel.composerChatViewPane.5d2389f6-d8ee-4218-b6e0-8f68796a89be.hidden:
+  '[{"id":"workbench.panel.aichat.view.d754c1ba-1f27-40c6-a993-22540e5985c7","isHidden":false}]'
 workbench.panel.composerChatViewPane.5dccd465-22fb-4b2b-88e0-0232d0dc9b4f.hidden:
   '[{"id":"workbench.panel.aichat.view.0c9028f2-c3c3-4a96-9ade-5c1d1e5f9e45","isHidden":false}]'
 workbench.panel.composerChatViewPane.607bf40a-2e0e-4f5d-b687-96b2a5670810.hidden:
   '[{"id":"workbench.panel.aichat.view.8009e0f0-bb36-481a-8bfe-29a6433f3fd8","isHidden":false},{"id":"workbench.panel.aichat.view.c6462683-8881-4a11-88fb-ea4639f526dc","isHidden":false}]'
 workbench.panel.composerChatViewPane.613da7c3-413f-4dbb-8694-39dfe5234e46.hidden:
   '[{"id":"workbench.panel.aichat.view.e0d8cf9b-f321-4980-8862-4a6128698fce","isHidden":false},{"id":"workbench.panel.aichat.view.760e5ddf-ea91-40a4-b0db-a1f9c6d18f22","isHidden":false}]'
+workbench.panel.composerChatViewPane.6230aab5-46dd-4ebe-b6d2-894fc37175ae.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
 workbench.panel.composerChatViewPane.6273990d-0cb8-4f4e-814b-dcd6735897d7.hidden:
   '[{"id":"workbench.panel.aichat.view.7ec490cd-acf1-411b-a613-ea43c76359f2","isHidden":false}]'
 workbench.panel.composerChatViewPane.63428e64-7af4-4c77-9078-1573ecba4f78.hidden:
@@ -230,6 +270,8 @@ workbench.panel.composerChatViewPane.69002e24-ab04-4005-a89f-a012b57c90f6.hidden
   '[{"id":"workbench.panel.aichat.view.f3b4d747-4142-4c59-8ffb-041004430c12","isHidden":false}]'
 workbench.panel.composerChatViewPane.6ccee14c-52c5-4847-bb0a-3e6b2a31525c.hidden:
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
+workbench.panel.composerChatViewPane.6cd52508-2fdb-4d6d-b2a9-595ea7103e84.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.6df359b1-036e-491a-b518-9dc3a6bfbf5d.hidden:
   '[{"id":"workbench.panel.aichat.view.5056b158-38e0-4f3d-adc3-a88ce06c6f20","isHidden":false}]'
 workbench.panel.composerChatViewPane.714be92a-6d1d-4689-9508-8428921aa70c.hidden:
@@ -246,18 +288,26 @@ workbench.panel.composerChatViewPane.77e09df9-2094-4f97-93e4-224d2e50340e.hidden
   '[{"id":"workbench.panel.aichat.view.bb146d9f-f30f-4341-ae11-d6bdeb4c5da2","isHidden":false}]'
 workbench.panel.composerChatViewPane.78f05e08-8ec4-4e0f-95d7-3f672c375270.hidden:
   '[{"id":"workbench.panel.aichat.view.da53aa47-1cba-4f24-adc7-ee6c102c90cb","isHidden":false}]'
+workbench.panel.composerChatViewPane.79a53363-2de5-414b-9410-9a68889dac0c.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.7a06ecad-c905-4ad9-a453-be06fcdd3d19.hidden:
   '[{"id":"workbench.panel.aichat.view.5a2b5f48-62e9-49b0-945a-42287621a333","isHidden":false}]'
 workbench.panel.composerChatViewPane.7b67156c-433a-4b5b-9d54-4a9fd467906b.hidden:
   '[{"id":"workbench.panel.aichat.view.e6307591-46c8-45d7-b127-4d21c2bd5db8","isHidden":false}]'
 workbench.panel.composerChatViewPane.7f67603f-3f26-4495-8072-266c6cceb7eb.hidden:
   '[{"id":"workbench.panel.aichat.view.e6307591-46c8-45d7-b127-4d21c2bd5db8","isHidden":false},{"id":"workbench.panel.aichat.view.d9e1f05b-b36e-4db1-830a-ab0bff2a6ee4","isHidden":false},{"id":"workbench.panel.aichat.view.2c83a195-81a1-425f-a7c2-e4caf481799a","isHidden":false}]'
+workbench.panel.composerChatViewPane.7fb36537-88b7-4343-8c9c-b72bef76ae48.hidden:
+  '[{"id":"workbench.panel.aichat.view.7ec490cd-acf1-411b-a613-ea43c76359f2","isHidden":false},{"id":"workbench.panel.aichat.view.ff2de7e3-7d9c-4944-b79b-d79c32f77850","isHidden":false}]'
+workbench.panel.composerChatViewPane.80ba5fe8-4aad-42ae-bbcc-bbe24345a34a.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.8159da3f-ec11-4637-9097-010943514de0.hidden:
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
 workbench.panel.composerChatViewPane.8243741f-84fa-4e74-bee0-607c2d2b1b8b.hidden:
   '[{"id":"workbench.panel.aichat.view.55c8bc81-299c-462c-ad6c-954989fd1f3c","isHidden":false}]'
 workbench.panel.composerChatViewPane.82c0c9ec-7ccb-4908-af97-70e94ad8acb1.hidden:
   '[{"id":"workbench.panel.aichat.view.9cea7aa8-3646-4219-bed3-915d0fe00c29","isHidden":false}]'
+workbench.panel.composerChatViewPane.83b0b19a-a4e0-41b6-b187-a07f3861ded5.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
 workbench.panel.composerChatViewPane.84a1b77a-8a02-46a8-b64b-407084044eef.hidden:
   '[{"id":"workbench.panel.aichat.view.78b5863c-e5be-4e9b-9a46-91a4f0c5ac59","isHidden":false}]'
 workbench.panel.composerChatViewPane.84e2edef-7672-49c2-882c-2d58148201fd.hidden:
@@ -270,20 +320,32 @@ workbench.panel.composerChatViewPane.853edc98-6969-4113-a432-0c4be7cf94c2.hidden
   '[{"id":"workbench.panel.aichat.view.4e891d76-9b87-46fe-87da-5485858df54c","isHidden":false},{"id":"workbench.panel.aichat.view.03b10921-7849-415c-9b79-88d503da8d10","isHidden":false},{"id":"workbench.panel.aichat.view.550ddd2c-7f9e-4aa2-9038-cf30295126de","isHidden":false},{"id":"workbench.panel.aichat.view.a674d9a5-499d-4db8-8881-660d511e5947","isHidden":false},{"id":"workbench.panel.aichat.view.e0d8cf9b-f321-4980-8862-4a6128698fce","isHidden":false}]'
 workbench.panel.composerChatViewPane.85616484-b5dc-487a-a3d6-831b93046ce8.hidden:
   '[{"id":"workbench.panel.aichat.view.8ac264ff-6f0c-4ba2-afe1-336572c8ac56","isHidden":false}]'
+workbench.panel.composerChatViewPane.862f155b-2fa2-4f0c-b70b-e819521ae2da.hidden:
+  '[{"id":"workbench.panel.aichat.view.69a3f9f4-386c-40f2-9f3c-e3a541c26cbe","isHidden":false}]'
 workbench.panel.composerChatViewPane.8657c672-5a2a-461a-a178-c432e32d36e6.hidden:
   '[{"id":"workbench.panel.aichat.view.49963c97-8014-4404-a13f-1c7fc8f740b5","isHidden":false}]'
+workbench.panel.composerChatViewPane.86b551be-a7ae-405c-af99-2071254be9f0.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
+workbench.panel.composerChatViewPane.86c4b82c-7073-4225-8ae1-cdfaa7ce4ec2.hidden:
+  '[{"id":"workbench.panel.aichat.view.01f5b0b9-03a1-49ae-9dda-7589e95cd73b","isHidden":false}]'
 workbench.panel.composerChatViewPane.8a255d52-1533-4248-9464-501f917fd451.hidden:
   '[{"id":"workbench.panel.aichat.view.7ccbeb8a-8a08-4bfc-84bc-3112e2cb1214","isHidden":false}]'
 workbench.panel.composerChatViewPane.8dcab29b-96f5-4fb0-beaf-674d7ce08cde.hidden:
   '[{"id":"workbench.panel.aichat.view.bb146d9f-f30f-4341-ae11-d6bdeb4c5da2","isHidden":false},{"id":"workbench.panel.aichat.view.7cdf6233-1cc5-4dd3-91dd-643fcb8812d1","isHidden":false},{"id":"workbench.panel.aichat.view.414359ae-d5bb-4fad-aa35-3f9ef56a88f0","isHidden":false}]'
 workbench.panel.composerChatViewPane.8e1f89ff-626d-4466-9e4a-1d6e3422fc5d.hidden:
   '[{"id":"workbench.panel.aichat.view.b0330917-cd2e-42a2-940c-622f218e0b95","isHidden":false}]'
+workbench.panel.composerChatViewPane.8e569bf0-5987-4db1-a656-023a5a5e6499.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.8f2a0914-4f7f-441c-b293-0886fac6951a.hidden:
   '[{"id":"workbench.panel.aichat.view.81f98960-6b85-4b0c-b575-30ba65dfb4d0","isHidden":false},{"id":"workbench.panel.aichat.view.5a2b5f48-62e9-49b0-945a-42287621a333","isHidden":false}]'
 workbench.panel.composerChatViewPane.8f51e482-0c44-4634-9863-6712ac87b4a7.hidden:
   '[{"id":"workbench.panel.aichat.view.760e5ddf-ea91-40a4-b0db-a1f9c6d18f22","isHidden":false},{"id":"workbench.panel.aichat.view.8237bef7-8cc8-4075-aecb-39d0b831e283","isHidden":false},{"id":"workbench.panel.aichat.view.d4408b9f-4d24-4118-8130-5e4080634eab","isHidden":false}]'
 workbench.panel.composerChatViewPane.9416e57e-2913-4501-b412-74f0a5e1c0a2.hidden:
   '[{"id":"workbench.panel.aichat.view.52cfedfa-2661-42b0-a4dd-b5a11589a31f","isHidden":false}]'
+workbench.panel.composerChatViewPane.9697f8c5-aaa9-4603-92b3-738ba505ff43.hidden:
+  '[{"id":"workbench.panel.aichat.view.4f227ba5-827c-4798-8f89-8c99496d6d88","isHidden":false},{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
+workbench.panel.composerChatViewPane.9728f434-7254-469a-98fe-1cdb9cc95f65.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.9a6a05be-06f1-429f-baae-5183af58abc4.hidden:
   '[{"id":"workbench.panel.aichat.view.5a2b5f48-62e9-49b0-945a-42287621a333","isHidden":false}]'
 workbench.panel.composerChatViewPane.9b73776d-15e1-44b8-894a-3fbc298c91ae.hidden:
@@ -302,16 +364,24 @@ workbench.panel.composerChatViewPane.a5dc6adb-82fa-4566-b5da-7ceea620038a.hidden
   '[{"id":"workbench.panel.aichat.view.af0c548d-5f4f-4a3b-b37a-6c0a6c78d08f","isHidden":false}]'
 workbench.panel.composerChatViewPane.a60dfe69-e7c2-4ef6-858f-e18027d2c1c5.hidden:
   '[{"id":"workbench.panel.aichat.view.bb146d9f-f30f-4341-ae11-d6bdeb4c5da2","isHidden":false}]'
+workbench.panel.composerChatViewPane.a61039e7-d022-443f-91d7-7ddbd82125da.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
+workbench.panel.composerChatViewPane.a62bf9e1-609f-4f4c-86e7-b2ce20ca0b7c.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.a6c3fba8-1b3b-46c6-8965-826a3781f918.hidden:
   '[{"id":"workbench.panel.aichat.view.2c83a195-81a1-425f-a7c2-e4caf481799a","isHidden":false},{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
 workbench.panel.composerChatViewPane.a80b4935-1666-4d4d-9f22-c2c42fbb19d3.hidden:
   '[{"id":"workbench.panel.aichat.view.8b87b4fb-b1e4-40c3-b171-2ae6275ce99f","isHidden":false},{"id":"workbench.panel.aichat.view.2710c44f-6587-450d-b97b-ba57d1b6447b","isHidden":false},{"id":"workbench.panel.aichat.view.6fe6e84f-0eed-4b60-b939-59bcd9434b6d","isHidden":false}]'
+workbench.panel.composerChatViewPane.a81184ee-0eae-4161-bccd-01585fa58e15.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.a8838f51-8802-4304-9a78-8541cf0bb234.hidden:
   '[{"id":"workbench.panel.aichat.view.e15091e9-893c-4590-959e-1c44b9de3f27","isHidden":false}]'
 workbench.panel.composerChatViewPane.a9f300a5-7b29-4013-a77c-db8f61a05ecc.hidden:
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
 workbench.panel.composerChatViewPane.aa0f4ae3-80ad-4f70-9a52-a541a3b4e6dd.hidden:
   '[{"id":"workbench.panel.aichat.view.52cfedfa-2661-42b0-a4dd-b5a11589a31f","isHidden":false},{"id":"workbench.panel.aichat.view.9d31a6bf-c57f-4fc1-90ad-e8ef08e5fd14","isHidden":false},{"id":"workbench.panel.aichat.view.604b4863-00f8-470f-b55d-7e9d7fc9e685","isHidden":false}]'
+workbench.panel.composerChatViewPane.ab78bb5a-b782-4eb0-ade9-dedf61b8ae7f.hidden:
+  '[{"id":"workbench.panel.aichat.view.d754c1ba-1f27-40c6-a993-22540e5985c7","isHidden":false}]'
 workbench.panel.composerChatViewPane.ac8dced5-9717-48e8-b45d-e5a1ac060652.hidden:
   '[{"id":"workbench.panel.aichat.view.b60f33f4-4925-4ec3-ad23-3ba220f58b60","isHidden":false}]'
 workbench.panel.composerChatViewPane.ae1d4efa-88e2-4da3-be14-41ebc8bb2aa7.hidden:
@@ -322,10 +392,16 @@ workbench.panel.composerChatViewPane.b1627517-1d33-47d9-af5d-59112e093017.hidden
   '[{"id":"workbench.panel.aichat.view.95ca4bce-f200-4766-aded-619ae197fdf3","isHidden":false}]'
 workbench.panel.composerChatViewPane.b1be0ee4-3cdb-4375-a35f-849b40ff1b8e.hidden:
   '[{"id":"workbench.panel.aichat.view.0da83941-11f8-4b1c-885a-3e13b8e7d3c8","isHidden":false}]'
+workbench.panel.composerChatViewPane.b2abd6ac-027f-42cf-8e9e-0c9e9052daf9.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
+workbench.panel.composerChatViewPane.b405f657-5f4a-4f41-9457-c1cc7d37c044.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.b5a9f74f-2c21-4e4d-a1fd-2ca0c7262b00.hidden:
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
 workbench.panel.composerChatViewPane.b6e209d6-d927-4ef3-9ae9-54e8c0883fe6.hidden:
   '[{"id":"workbench.panel.aichat.view.b1da808c-38e4-415c-8906-92b6731c319c","isHidden":false}]'
+workbench.panel.composerChatViewPane.b7a72692-09d7-4d4a-996f-561a1cac5386.hidden:
+  '[{"id":"workbench.panel.aichat.view.09afad63-c16a-475d-bc3d-b43d95ceee74","isHidden":false}]'
 workbench.panel.composerChatViewPane.b8e408e7-9b5e-453a-a61a-bad609ce32bd.hidden:
   '[{"id":"workbench.panel.aichat.view.468ea569-5dc2-4ee6-a87b-a43c48bd895d","isHidden":false}]'
 workbench.panel.composerChatViewPane.b90916c1-3b9d-40ce-87d2-a79a414d80fc.hidden:
@@ -336,6 +412,8 @@ workbench.panel.composerChatViewPane.ba42b177-a2ca-437a-9ec6-bee9ce76977e.hidden
   '[{"id":"workbench.panel.aichat.view.78b5863c-e5be-4e9b-9a46-91a4f0c5ac59","isHidden":false}]'
 workbench.panel.composerChatViewPane.bb10ac20-59b2-4894-902c-da124549e921.hidden:
   '[{"id":"workbench.panel.aichat.view.0da83941-11f8-4b1c-885a-3e13b8e7d3c8","isHidden":false}]'
+workbench.panel.composerChatViewPane.bc2f7f9b-5b8b-40bc-9279-456a7094b035.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.bdf6dca1-8e28-4c3a-8f10-7111637951c8.hidden:
   '[{"id":"workbench.panel.aichat.view.df75d68c-ba17-45aa-9e33-16f8ad01cb07","isHidden":false},{"id":"workbench.panel.aichat.view.a5b29a4c-9eb0-4cd4-a062-ce9217d1f45a","isHidden":false}]'
 workbench.panel.composerChatViewPane.be3510cb-d36d-4369-9326-afd1bc09885b.hidden:
@@ -356,16 +434,22 @@ workbench.panel.composerChatViewPane.c7efadae-8d84-4120-a2d8-3d786b61e8ca.hidden
   '[{"id":"workbench.panel.aichat.view.78b5863c-e5be-4e9b-9a46-91a4f0c5ac59","isHidden":false}]'
 workbench.panel.composerChatViewPane.c92561b2-c456-4a5b-9487-c07cf8a620e0.hidden:
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
+workbench.panel.composerChatViewPane.ca984170-9ad9-4682-99f2-c89223f08652.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.cb0dccca-bd2f-4569-a1c1-bf9ff4e884f1.hidden:
   '[{"id":"workbench.panel.aichat.view.f91e74c1-4387-4199-ae2a-4032c9c3bb3c","isHidden":false}]'
 workbench.panel.composerChatViewPane.cc29ba9a-f9b7-4796-99e5-634a74514fd3.hidden:
   '[{"id":"workbench.panel.aichat.view.9c91aa33-2482-4eb7-9d56-d8195d2fcbbf","isHidden":false}]'
 workbench.panel.composerChatViewPane.cdef513e-8a6d-42eb-9963-e2ff68399e91.hidden:
   '[{"id":"workbench.panel.aichat.view.c90dc35a-129e-4648-99f1-b910fbc0c3ee","isHidden":false}]'
+workbench.panel.composerChatViewPane.ce900af1-971b-41b4-bec3-22766df3c1ce.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
 workbench.panel.composerChatViewPane.cef6ce49-83aa-48ba-86ab-441ae8fc8626.hidden:
   '[{"id":"workbench.panel.aichat.view.b01bb4e4-f6b7-44df-867f-bb72f5ef4c0f","isHidden":false}]'
 workbench.panel.composerChatViewPane.cf0d56cf-ac02-4074-a746-843c226981c9.hidden:
   '[{"id":"workbench.panel.aichat.view.414359ae-d5bb-4fad-aa35-3f9ef56a88f0","isHidden":false}]'
+workbench.panel.composerChatViewPane.cf20a681-88e3-4ac5-ae86-3e6c108f8806.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.cfad4824-8d99-49fb-830a-0b0cc5e42cd4.hidden:
   '[{"id":"workbench.panel.aichat.view.a5efa76c-89f3-48a5-bb19-5a9f3ad4157f","isHidden":false}]'
 workbench.panel.composerChatViewPane.d041ebbe-6ecb-4189-9d28-e686e3e27bc5.hidden:
@@ -376,6 +460,10 @@ workbench.panel.composerChatViewPane.d20e9f3f-2a25-47e5-b9b6-32b5ff09816d.hidden
   '[{"id":"workbench.panel.aichat.view.91ab6db3-4d46-4384-8cf7-36584348e209","isHidden":false}]'
 workbench.panel.composerChatViewPane.d7d53d55-f885-4a6e-8f16-b705e63bb3a5.hidden:
   '[{"id":"workbench.panel.aichat.view.6f1a2ec9-0249-493f-8406-ca4acbb62d56","isHidden":false}]'
+workbench.panel.composerChatViewPane.d83e5eed-a5ca-49a7-a1aa-aa7873794b24.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
+workbench.panel.composerChatViewPane.da676640-378c-46c3-8185-9c6f940cb764.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.db19aa69-e5b8-42c1-9fdd-50f794c6aa37.hidden:
   '[{"id":"workbench.panel.aichat.view.f91e74c1-4387-4199-ae2a-4032c9c3bb3c","isHidden":false}]'
 workbench.panel.composerChatViewPane.dc0a9ae5-ddd6-432a-9502-8c3af4a50db2.hidden:
@@ -384,6 +472,8 @@ workbench.panel.composerChatViewPane.dc32cfd6-73b9-4d2c-bb98-e9ec2f1bfd0e.hidden
   '[{"id":"workbench.panel.aichat.view.103b0fcd-89b3-4999-87a8-8c7a666beb72","isHidden":false}]'
 workbench.panel.composerChatViewPane.dec1a20e-6329-490f-9323-757587ec3184.hidden:
   '[{"id":"workbench.panel.aichat.view.533d9675-0348-43d7-9e18-63bbe80da8b4","isHidden":false},{"id":"workbench.panel.aichat.view.17210bca-679d-44e6-ae29-c96fb3f8aa81","isHidden":false}]'
+workbench.panel.composerChatViewPane.df063523-3039-493b-ad1a-5014d26fa23d.hidden:
+  '[{"id":"workbench.panel.aichat.view.4e2fbe1d-eb6f-455a-b35a-734b42830ddc","isHidden":false}]'
 workbench.panel.composerChatViewPane.e17e96a1-d80b-4b97-9cdd-a7fa1e797fe2.hidden:
   '[{"id":"workbench.panel.aichat.view.fdee99d2-9dce-41b8-a46e-b9e1a5716738","isHidden":false}]'
 workbench.panel.composerChatViewPane.e1c29f31-52aa-4fd1-bdfb-6a99e74a3817.hidden:
@@ -392,18 +482,26 @@ workbench.panel.composerChatViewPane.e38dc1f1-e6ad-4aa5-b53f-db5f854b4e0f.hidden
   '[{"id":"workbench.panel.aichat.view.4136fa48-ea55-401f-b376-1acdea364794","isHidden":false}]'
 workbench.panel.composerChatViewPane.e3e1fb92-5863-4824-bb88-2ec698093ea6.hidden:
   '[{"id":"workbench.panel.aichat.view.e68d44c0-8c84-4baf-9f0b-beeea11e6968","isHidden":false}]'
+workbench.panel.composerChatViewPane.e457a58a-c2d0-4070-9472-67c68258e28c.hidden:
+  '[{"id":"workbench.panel.aichat.view.c8e5c7cf-889e-4739-81e9-123be857701a","isHidden":false}]'
 workbench.panel.composerChatViewPane.e6e0160f-1dde-4514-a030-c0e36e73925a.hidden:
   '[{"id":"workbench.panel.aichat.view.5f550da5-14b9-42b1-bd82-547bc113057d","isHidden":false},{"id":"workbench.panel.aichat.view.468ea569-5dc2-4ee6-a87b-a43c48bd895d","isHidden":false}]'
 workbench.panel.composerChatViewPane.e7bb8f7f-3107-4263-a3e7-be7b752ec1d6.hidden:
   '[{"id":"workbench.panel.aichat.view.ff3c0ed6-97f5-478d-82db-e0793ed0dfd1","isHidden":false}]'
+workbench.panel.composerChatViewPane.e99ca2c7-cf23-4e93-bcf0-bdafd50f425f.hidden:
+  '[{"id":"workbench.panel.aichat.view.09afad63-c16a-475d-bc3d-b43d95ceee74","isHidden":false}]'
 workbench.panel.composerChatViewPane.ec762e4f-75a6-4f78-9fe7-8aae51b87cb9.hidden:
   '[{"id":"workbench.panel.aichat.view.a93d42c7-9d2e-4a7d-bc91-dfc2827d9319","isHidden":false}]'
+workbench.panel.composerChatViewPane.ecd64c8c-9c22-420a-b384-b5bb77d00451.hidden:
+  '[{"id":"workbench.panel.aichat.view.f3b4d747-4142-4c59-8ffb-041004430c12","isHidden":false}]'
 workbench.panel.composerChatViewPane.eeb286a9-a649-43d1-919d-72b70d564bf1.hidden:
   '[{"id":"workbench.panel.aichat.view.9cea7aa8-3646-4219-bed3-915d0fe00c29","isHidden":false}]'
 workbench.panel.composerChatViewPane.f2c0f748-65b9-417f-8f54-ae682b7de79d.hidden:
   '[{"id":"workbench.panel.aichat.view.5f8c1804-8c3a-4686-a3e5-68d5db9fd98d","isHidden":false}]'
 workbench.panel.composerChatViewPane.f2fa98da-2a36-450e-b289-a6b46a1cbe1d.hidden:
   '[{"id":"workbench.panel.aichat.view.d754c1ba-1f27-40c6-a993-22540e5985c7","isHidden":false}]'
+workbench.panel.composerChatViewPane.f5fd9d2e-cc97-449f-9955-4896ae57bf88.hidden:
+  '[{"id":"workbench.panel.aichat.view.e625e920-c1a1-43f5-a6cd-4cfc24b631fd","isHidden":false}]'
 workbench.panel.composerChatViewPane.f81353ab-56b6-42e7-8dbd-a0d3ba26782f.hidden:
   '[{"id":"workbench.panel.aichat.view.35027267-c2ae-48d2-ad5a-02439fd07200","isHidden":false}]'
 workbench.panel.composerChatViewPane.f8146f29-d2c3-4c82-bd1c-64b35f6d6805.hidden:
@@ -426,19 +524,19 @@ workbench.panel.lastNonMaximizedHeight: "1279"
 workbench.panel.lastNonMaximizedWidth: "1228"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.playwrightContainer","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.playwrightContainer","pinned":true,"visible":false,"order":7},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
   Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"gitlens:plus:enabled
   && !gitlens:disabled"},{"when":"gitlens:plus:enabled &&
-  !gitlens:disabled"}]},{"id":"workbench.view.extension.playwrightContainer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/ms-playwright.playwright-1.1.14/images/playwright-logo.png","scheme":"file"},"name":"Playwright","isBuiltin":false,"views":[{}]},{"id":"workbench.panel.comments","themeIcon":{"id":"comments-view-icon"},"name":"Comments","isBuiltin":true,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  !gitlens:disabled"}]},{"id":"workbench.view.extension.playwrightContainer","name":"Playwright","isBuiltin":false},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "577"
+workbench.panel.size: "297"
 workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
 workbench.services.onFirstStartupService.isVeryFirstTime: "false"
-workbench.sideBar.size: "269"
+workbench.sideBar.size: "273"
 workbench.statusbar.hidden: '["GitHub.copilot.status"]'
 workbench.telemetryOptOutShown: "true"
 workbench.view.bugbot.hidden: '[{"id":"workbench.views.bugbot","isHidden":false}]'
@@ -451,9 +549,9 @@ workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph
 workbench.view.extension.playwrightContainer.state.hidden: '[{"id":"pw.extension.locatorsView","isHidden":false}]'
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false},{"id":"pw.extension.settingsView","isHidden":false}]'
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.extensions.local.installed","isHidden":false},{"id":"workbench.views.extensions.remote.installed","isHidden":false}]'
-workbench.view.remote.state.hidden: '[{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"remoteTargets","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"remoteTargets","isHidden":false},{"id":"remoteHub.views.workspaceRepositories","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "33"
-workbench.views.extensions.local.installed.size: "32"
-workbench.views.extensions.remote.installed.size: "0"
+workbench.views.extensions.installed.size: "37"
+workbench.views.extensions.local.installed.size: "37"
+workbench.views.extensions.remote.installed.size: "7"
 zokugun.cron-tasks: '{"version":"0.2.1"}'

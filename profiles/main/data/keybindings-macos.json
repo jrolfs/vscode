@@ -323,17 +323,17 @@
   //   }
   // },
   {
-    "key": "alt+cmd+e",
+    "key": "alt+cmd+shift+l",
     "command": "toggle",
-    // "when": "editorTextFocus",
+    "when": "editorTextFocus",
     "args": {
-      "id": "jamieLint",
+      "id": "jamieLintToggleMapping",
       "value": [
         {
-          "eslint.options.overrideConfigFile": "jamie.eslint.config.mjs"
+          "editor.minimap.enabled": true
         },
         {
-          "eslint.options.overrideConfigFile": null
+          "editor.minimap.enabled": false
         }
       ]
     }
