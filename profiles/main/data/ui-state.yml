@@ -520,7 +520,7 @@ workbench.panel.composerChatViewPane.fed2f5af-be88-4de3-a2e2-5dfddb5f32a5.hidden
   '[{"id":"workbench.panel.aichat.view.0da83941-11f8-4b1c-885a-3e13b8e7d3c8","isHidden":false}]'
 workbench.panel.composerChatViewPane.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
 workbench.panel.composerViewPane2.hidden: '[{"id":"workbench.panel.composerViewPane2.view","isHidden":false}]'
-workbench.panel.lastNonMaximizedHeight: "1279"
+workbench.panel.lastNonMaximizedHeight: "297"
 workbench.panel.lastNonMaximizedWidth: "1228"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
