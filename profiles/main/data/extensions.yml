@@ -5,6 +5,10 @@ disabled:
   - id: asvetliakov.vscode-neovim
     uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
 enabled:
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
   - id: coder.coder-remote
     uuid: 21e3a57c-bba3-4e15-a321-7b2e2dc4f39f
   - id: dbaeumer.vscode-eslint
@@ -17,12 +21,6 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: geddski.macros
     uuid: ee577500-fad7-4a2b-b19a-bf7ef89f766c
-  - id: GitHub.copilot
-    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
-  - id: GitHub.copilot-chat
-    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
-  - id: GitHub.remotehub
-    uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: GraphQL.vscode-graphql
@@ -33,10 +31,12 @@ enabled:
     uuid: 0ffebccd-4265-4f2d-a855-db1adcf278c7
   - id: mikoz.black-py
     uuid: 52778d39-0ece-4ef8-9809-5402f75074a4
-  - id: misogi.ruby-rubocop
-    uuid: 867c2662-4ce0-4736-a22c-69975925a0c6
   - id: mkhl.direnv
     uuid: e365e970-aeef-4dcd-8e4a-17306a27ab62
+  - id: mrmlnc.vscode-json5
+    uuid: d6c6d30c-10a6-42fe-85ec-41dcb313349d
+  - id: ms-kubernetes-tools.vscode-kubernetes-tools
+    uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
   - id: ms-playwright.playwright
     uuid: f53b1d43-eef4-4909-99ca-56b5fa3e108c
   - id: ms-python.debugpy
@@ -47,20 +47,12 @@ enabled:
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
-  - id: ms-vscode-remote.remote-ssh
-    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
-  - id: ms-vscode-remote.remote-ssh-edit
-    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
-  - id: ms-vscode.azure-repos
-    uuid: 25cfa506-1433-4595-a73f-61666807126d
-  - id: ms-vscode.remote-explorer
-    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
-  - id: ms-vscode.remote-repositories
-    uuid: cf5142f0-3701-4992-980c-9895a750addf
   - id: naumovs.color-highlight
     uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
   - id: rebornix.toggle
     uuid: d3a9136d-76df-4050-9935-902e05a115bc
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: sainnhe.gruvbox-material
     uuid: d9437be1-e21c-4e9a-9548-e63650468296
   - id: Shopify.ruby-lsp
@@ -73,5 +65,7 @@ enabled:
     uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
   - id: YoavBls.pretty-ts-errors
     uuid: 1e149c89-8f97-447e-863d-1146f0ad1b70
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
