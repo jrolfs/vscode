@@ -1,10 +1,23 @@
 builtin:
   disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-retrieval
     - undefined.cursor-themes
 disabled:
   - id: asvetliakov.vscode-neovim
     uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
 enabled:
+  - id: antfu.slidev
+    uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
+  - id: antfu.unocss
+    uuid: 55f2cc0f-acb9-4fb0-bf94-e0328e3c43fd
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
+  - id: coder.coder-remote
+    uuid: 21e3a57c-bba3-4e15-a321-7b2e2dc4f39f
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: denoland.vscode-deno
@@ -13,6 +26,12 @@ enabled:
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: geddski.macros
+    uuid: ee577500-fad7-4a2b-b19a-bf7ef89f766c
+  - id: github.vscode-github-actions
+    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: GraphQL.vscode-graphql
     uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
   - id: GraphQL.vscode-graphql-syntax
@@ -35,5 +54,15 @@ enabled:
     uuid: 5d260afc-8d75-4731-a881-66951c630816
   - id: sysoev.vscode-open-in-github
     uuid: b70cf6bc-1796-4191-bcfc-abeb77997ea7
+  - id: TypeScriptTeam.native-preview
+    uuid: e75b194c-f26c-4c6a-93a2-301b13a3010f
+  - id: unifiedjs.vscode-mdx
+    uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: YoavBls.pretty-ts-errors
+    uuid: 1e149c89-8f97-447e-863d-1146f0ad1b70
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

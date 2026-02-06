@@ -59,7 +59,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -126,9 +126,6 @@
   "vscode-neovim.logLevel": "info",
   "vscode-neovim.neovimInitVimPaths.darwin": "$XDG_CONFIG_HOME/nvim/init-vscode.vim",
   "vscode-neovim.textDecorationsAtTop": true,
-  "extensions.experimental.affinity": {
-    "asvetliakov.vscode-neovim": 1
-  },
   "stylelint.validate": ["css", "less", "postcss", "scss"],
   "npm.keybindingsChangedWarningShown": true,
   "search.exclude": {
@@ -240,5 +237,18 @@
   "cursor.composer.shouldChimeAfterChatFinishes": true,
   "redhat.telemetry.enabled": true,
   "workbench.editor.editorActionsLocation": "hidden",
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
+  "update.releaseTrack": "prerelease",
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "unocss.root": ".",
+  "unocss.languageIds": [
+    "vue",
+    "html",
+    "markdown"
+  ],
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
