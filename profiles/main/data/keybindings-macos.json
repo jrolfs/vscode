@@ -146,6 +146,52 @@
     "key": "alt+t",
     "command": "workbench.action.quickOpenTerm"
   },
+  
+  {
+    "key": "ctrl+b",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        { "command": "vscode-neovim.send", "args": "<C-b>" },
+        { "command": "editorScroll", "args": { "to": "up", "by": "page" } }
+      ]
+    },
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+u",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        { "command": "vscode-neovim.send", "args": "<C-u>" },
+        { "command": "editorScroll", "args": { "to": "up", "by": "halfPage" } }
+      ]
+    },
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        { "command": "vscode-neovim.send", "args": "<C-d>" },
+        { "command": "editorScroll", "args": { "to": "down", "by": "halfPage" } }
+      ]
+    },
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+f",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        { "command": "vscode-neovim.send", "args": "<C-f>" },
+        { "command": "editorScroll", "args": { "to": "down", "by": "page" } }
+      ]
+    },
+    "when": "editorTextFocus"
+  },
+
   //
   //
   // Debug
