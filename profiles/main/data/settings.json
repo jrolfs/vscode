@@ -155,7 +155,7 @@
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "github.copilot.advanced": {},
   "workbench.activityBar.location": "hidden",
-  "window.commandCenter": false,
+  "window.commandCenter": true,
   "workbench.editor.tabActionCloseVisibility": false,
   "apc.electron": {
     "titleBarStyle": "hidden",
@@ -191,10 +191,10 @@
   "custom-ui-style.font.sansSerif": "'IBM Plex Sans', -apple-system",
   "cursor.cpp.disabledLanguages": [
     "plaintext",
+    "markdown",
     "scminput"
   ],
   "window.titleBarStyle": "native",
-  "window.customTitleBarVisibility": "never",
   "workbench.editorAssociations": {
     "*.copilotmd": "vscode.markdown.preview.editor",
     "*.svg": "default"
@@ -250,5 +250,7 @@
   ],
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "workbench.navigationControl.enabled": false,
+  "window.customTitleBarVisibility": "never"
 }

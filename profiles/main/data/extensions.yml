@@ -42,8 +42,6 @@ enabled:
     uuid: e365e970-aeef-4dcd-8e4a-17306a27ab62
   - id: ms-playwright.playwright
     uuid: f53b1d43-eef4-4909-99ca-56b5fa3e108c
-  - id: openai.chatgpt
-    uuid: 90b52117-6fd1-4f1c-9e14-256bd6e21d79
   - id: rebornix.toggle
     uuid: d3a9136d-76df-4050-9935-902e05a115bc
   - id: sainnhe.gruvbox-material
