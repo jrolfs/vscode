@@ -5,12 +5,6 @@ disabled:
   - id: asvetliakov.vscode-neovim
     uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
 enabled:
-  - id: anysphere.cursorpyright
-    uuid: d7f9f831-2239-4783-9d06-18d27f285818
-  - id: anysphere.remote-ssh
-    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
-  - id: coder.coder-remote
-    uuid: 21e3a57c-bba3-4e15-a321-7b2e2dc4f39f
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: denoland.vscode-deno
@@ -19,40 +13,20 @@ enabled:
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: geddski.macros
-    uuid: ee577500-fad7-4a2b-b19a-bf7ef89f766c
-  - id: github.vscode-github-actions
-    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: GraphQL.vscode-graphql
     uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
   - id: GraphQL.vscode-graphql-syntax
     uuid: e1ab76b1-9acd-4ffa-baf7-1d9eaf7cf3d2
   - id: jnoortheen.nix-ide
     uuid: 0ffebccd-4265-4f2d-a855-db1adcf278c7
-  - id: mikoz.black-py
-    uuid: 52778d39-0ece-4ef8-9809-5402f75074a4
   - id: mkhl.direnv
     uuid: e365e970-aeef-4dcd-8e4a-17306a27ab62
-  - id: mrmlnc.vscode-json5
-    uuid: d6c6d30c-10a6-42fe-85ec-41dcb313349d
-  - id: ms-kubernetes-tools.vscode-kubernetes-tools
-    uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
   - id: ms-playwright.playwright
     uuid: f53b1d43-eef4-4909-99ca-56b5fa3e108c
-  - id: ms-python.debugpy
-    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: ms-vscode-remote.remote-containers
-    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
-  - id: naumovs.color-highlight
-    uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
+  - id: openai.chatgpt
+    uuid: 90b52117-6fd1-4f1c-9e14-256bd6e21d79
   - id: rebornix.toggle
     uuid: d3a9136d-76df-4050-9935-902e05a115bc
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: sainnhe.gruvbox-material
     uuid: d9437be1-e21c-4e9a-9548-e63650468296
   - id: Shopify.ruby-lsp
@@ -61,11 +35,5 @@ enabled:
     uuid: 5d260afc-8d75-4731-a881-66951c630816
   - id: sysoev.vscode-open-in-github
     uuid: b70cf6bc-1796-4191-bcfc-abeb77997ea7
-  - id: unifiedjs.vscode-mdx
-    uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
-  - id: YoavBls.pretty-ts-errors
-    uuid: 1e149c89-8f97-447e-863d-1146f0ad1b70
-  - id: yzhang.markdown-all-in-one
-    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

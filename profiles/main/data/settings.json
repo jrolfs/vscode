@@ -141,7 +141,6 @@
     "**/*.mdx"
   ],
   "grammarly.startTextCheckInPausedState": true,
-  "update.mode": "manual",
   "react-native-tools.showUserTips": false,
   "github.copilot.enable": {
     "*": true,

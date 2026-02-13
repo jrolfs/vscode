@@ -350,5 +350,9 @@
   {
     "key": "alt+cmd+'",
     "command": "-composer.showComposerHistory"
+  },
+  {
+    "key": "cmd+i",
+    "command": "composerMode.agent"
   }
 ]
