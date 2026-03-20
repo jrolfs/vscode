@@ -15,35 +15,35 @@
   // - merge-conflict.previous
   {
     "key": "ctrl+cmd+p",
-    "command": "merge-conflict.previous"
+    "command": "merge-conflict.previous",
   },
   {
     "key": "ctrl+cmd+n",
-    "command": "merge-conflict.next"
+    "command": "merge-conflict.next",
   },
   {
     "key": "cmd+shift+m",
-    "command": "merge-conflict.accept.both"
+    "command": "merge-conflict.accept.both",
   },
   {
     "key": "cmd+shift+,",
-    "command": "merge-conflict.accept.current"
+    "command": "merge-conflict.accept.current",
   },
   {
     "key": "cmd+shift+.",
-    "command": "merge-conflict.accept.incoming"
+    "command": "merge-conflict.accept.incoming",
   },
   {
     "key": "ctrl+g r",
-    "command": "git.revertSelectedRanges"
+    "command": "git.revertSelectedRanges",
   },
   {
     "key": "ctrl+g o",
-    "command": "git.openChange"
+    "command": "git.openChange",
   },
   {
     "key": "ctrl+g s",
-    "command": "git.stageSelectedRanges"
+    "command": "git.stageSelectedRanges",
   },
   //
   //
@@ -51,7 +51,7 @@
   //
   {
     "key": "cmd+shift+r",
-    "command": "workbench.action.openRecent"
+    "command": "workbench.action.openRecent",
   },
   //
   //
@@ -88,29 +88,34 @@
   // - aichat.warmfastapply
   {
     "key": "ctrl+a a",
-    "command": "aichat.warmfastapply"
+    "command": "aichat.warmfastapply",
   },
   {
     "key": "ctrl+a y",
-    "command": "aipopup.action.acceptPromptBar"
+    "command": "aipopup.action.acceptPromptBar",
   },
   {
     "key": "ctrl+a n",
-    "command": "aipopup.action.rejectPromptBar"
+    "command": "aipopup.action.rejectPromptBar",
   },
   {
     "key": "ctrl+a n",
-    "command": "aipopup.action.nextPromptBar"
+    "command": "aipopup.action.nextPromptBar",
   },
   {
     "key": "ctrl+w shift+l",
     "command": "workbench.action.moveEditorToRightGroup",
-    "when": "activeAIChatEditor"
+    "when": "activeAIChatEditor",
   },
   {
     "key": "ctrl+w shift+h",
     "command": "workbench.action.moveEditorToLeftGroup",
-    "when": "activeAIChatEditor"
+    "when": "activeAIChatEditor",
+  },
+  {
+    "key": "ctrl+w l",
+    "command": "workbench.action.focusFirstEditorGroup",
+    "when": "!editorTextFocus && !terminalFocus && neovim.mode != 'cmdline'",
   },
   //
   //
@@ -127,12 +132,12 @@
   // - workbench.action.quickOpenTerm
   {
     "key": "cmd+shift+j",
-    "command": "workbench.action.toggleMaximizedPanel"
-  },  
+    "command": "workbench.action.toggleMaximizedPanel",
+  },
   {
     "key": "ctrl+cmd+m",
-    "command": "workbench.action.joinAllGroups"
-  },  
+    "command": "workbench.action.joinAllGroups",
+  },
   // {
   //   "key": "ctrl+b",
   //   "command": "workbench.action.quickOpenPreviousRecentlyUsedEditor"
@@ -140,23 +145,23 @@
   {
     "key": "ctrl+b",
     "command": "workbench.action.quickOpen",
-    "args": "edt "
+    "args": "edt ",
   },
   {
     "key": "alt+t",
-    "command": "workbench.action.quickOpenTerm"
+    "command": "workbench.action.quickOpenTerm",
   },
-  
+
   {
     "key": "ctrl+b",
     "command": "runCommands",
     "args": {
       "commands": [
         { "command": "vscode-neovim.send", "args": "<C-b>" },
-        { "command": "editorScroll", "args": { "to": "up", "by": "page" } }
-      ]
+        { "command": "editorScroll", "args": { "to": "up", "by": "page" } },
+      ],
     },
-    "when": "editorTextFocus"
+    "when": "editorTextFocus",
   },
   {
     "key": "ctrl+u",
@@ -164,10 +169,10 @@
     "args": {
       "commands": [
         { "command": "vscode-neovim.send", "args": "<C-u>" },
-        { "command": "editorScroll", "args": { "to": "up", "by": "halfPage" } }
-      ]
+        { "command": "editorScroll", "args": { "to": "up", "by": "halfPage" } },
+      ],
     },
-    "when": "editorTextFocus"
+    "when": "editorTextFocus",
   },
   {
     "key": "ctrl+d",
@@ -175,10 +180,13 @@
     "args": {
       "commands": [
         { "command": "vscode-neovim.send", "args": "<C-d>" },
-        { "command": "editorScroll", "args": { "to": "down", "by": "halfPage" } }
-      ]
+        {
+          "command": "editorScroll",
+          "args": { "to": "down", "by": "halfPage" },
+        },
+      ],
     },
-    "when": "editorTextFocus"
+    "when": "editorTextFocus",
   },
   {
     "key": "ctrl+f",
@@ -186,10 +194,10 @@
     "args": {
       "commands": [
         { "command": "vscode-neovim.send", "args": "<C-f>" },
-        { "command": "editorScroll", "args": { "to": "down", "by": "page" } }
-      ]
+        { "command": "editorScroll", "args": { "to": "down", "by": "page" } },
+      ],
     },
-    "when": "editorTextFocus"
+    "when": "editorTextFocus",
   },
 
   //
@@ -198,7 +206,7 @@
   //
   {
     "key": "cmd+ctrl+l",
-    "command": "workbench.debug.panel.action.clearReplAction"
+    "command": "workbench.debug.panel.action.clearReplAction",
   },
   //
   //
@@ -207,12 +215,12 @@
   {
     "key": "ctrl+e i",
     "command": "editor.action.showHover",
-    "when": "editorTextFocus"
+    "when": "editorTextFocus",
   },
   {
     "key": "ctrl+e i",
     "command": "editor.debug.action.showDebugHover",
-    "when": "editorTextFocus && inDebugMode"
+    "when": "editorTextFocus && inDebugMode",
   },
   {
     "key": "shift+alt+x",
@@ -222,17 +230,17 @@
       "id": "toggle_inlay_hints",
       "value": [
         {
-          "editor.inlayHints.enabled": "on"
+          "editor.inlayHints.enabled": "on",
         },
         {
-          "editor.inlayHints.enabled": "off"
-        }
-      ]
-    }
+          "editor.inlayHints.enabled": "off",
+        },
+      ],
+    },
   },
   {
     "key": "cmd+shift+alt+ctrl+n",
-    "command": "vscode-neovim.restart"
+    "command": "vscode-neovim.restart",
   },
   // {
   //   "key": "] d",
@@ -258,12 +266,12 @@
   // noremap ]c :<C-u>call VSCodeCall('workbench.action.editor.nextChange')<cr>
   {
     "key": "ctrl+e '",
-    "command": "editor.action.toggleMinimap"
+    "command": "editor.action.toggleMinimap",
     // "when": "editorTextFocus && !editorReadonly"
   },
   {
     "key": "alt+ctrl+t",
-    "command": "workbench.action.closeEditorsToTheRight"
+    "command": "workbench.action.closeEditorsToTheRight",
   },
   // {
   //   "key": "cmd+k f2",
@@ -275,16 +283,16 @@
   //
   {
     "key": "ctrl+f c",
-    "command": "workbench.files.action.collapseExplorerFolders"
+    "command": "workbench.files.action.collapseExplorerFolders",
   },
   {
     "key": "ctrl+f a",
-    "command": "workbench.files.action.showActiveFileInExplorer"
+    "command": "workbench.files.action.showActiveFileInExplorer",
   },
   {
     "key": "enter",
     "command": "renameFile",
-    "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+    "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus",
   },
   //
   //
@@ -293,27 +301,27 @@
   {
     "key": "alt+l",
     "command": "workbench.action.terminal.focusNextPane",
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   {
     "key": "alt+h",
     "command": "workbench.action.terminal.focusPreviousPane",
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   {
     "key": "alt+shift+l",
     "command": "workbench.action.terminal.focusNext",
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   {
     "key": "alt+shift+h",
     "command": "workbench.action.terminal.focusPrevious",
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   {
     "key": "alt+\\",
     "command": "workbench.action.terminal.split",
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   // {
   //   "key": "cmd+k shift+w",
@@ -322,17 +330,17 @@
   {
     "key": "ctrl+cmd+j",
     "command": "workbench.action.terminal.focus",
-    "when": "!terminalFocus"
+    "when": "!terminalFocus",
   },
   {
     "key": "ctrl+w k",
     "command": "workbench.action.focusActiveEditorGroup",
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   {
     "key": "f5",
     "command": "rust-analyzer.run",
-    "when": "editorFocus && editorLangId == 'rust'"
+    "when": "editorFocus && editorLangId == 'rust'",
   },
   //
   //
@@ -342,16 +350,16 @@
   {
     "key": "cmd+b",
     "command": "workbench.action.toggleSidebarVisibility",
-    "when": "editorTextFocus && !editorReadonly && editorLangId == 'mdx'"
+    "when": "editorTextFocus && !editorReadonly && editorLangId == 'mdx'",
   },
   {
     "key": "cmd+b",
     "command": "workbench.action.toggleSidebarVisibility",
-    "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+    "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/",
   },
   {
     "key": "ctrl+alt+cmd+l",
-    "command": "macros.toggleLinting"
+    "command": "macros.toggleLinting",
   },
   // {
   //   "key": "alt+cmd+l",
@@ -377,28 +385,33 @@
       "id": "jamieLintToggleMapping",
       "value": [
         {
-          "editor.minimap.enabled": true
+          "editor.minimap.enabled": true,
         },
         {
-          "editor.minimap.enabled": false
-        }
-      ]
-    }
+          "editor.minimap.enabled": false,
+        },
+      ],
+    },
   },
   {
     "key": "cmd+i",
-    "command": "composerMode.agent"
+    "command": "composerMode.agent",
   },
   {
     "key": "ctrl+alt+l",
-    "command": "composer.showComposerHistory"
+    "command": "composer.showComposerHistory",
   },
   {
     "key": "alt+cmd+'",
-    "command": "-composer.showComposerHistory"
+    "command": "-composer.showComposerHistory",
   },
   {
     "key": "cmd+i",
-    "command": "composerMode.agent"
-  }
+    "command": "composerMode.agent",
+  },
+
+  {
+    "key": "cmd+;",
+    "command": "claude-vscode.sidebar.open",
+  },
 ]

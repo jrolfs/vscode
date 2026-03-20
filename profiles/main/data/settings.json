@@ -29,7 +29,6 @@
   "editor.lineHeight": 0,
   "editor.fontWeight": "400",
   "terminal.integrated.fontFamily": "'Jetbrains Mono Nerd Font', 'MonoLisa Nerd Font', monospace",
-  "terminal.integrated.fontSize": 13,
   "workbench.fontAliasing": "antialiased",
   "------------------- user interface -------------------": null,
   "comments.openView": "never",
@@ -53,49 +52,49 @@
   "gruvboxMaterial.darkContrast": "soft",
   "------------------- languages -------------------": null,
   "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "vscode.typescript-language-features",
   },
   "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[json5]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
   },
   "[scss]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[svg]": {
-    "editor.defaultFormatter": "1000ch.svgo"
+    "editor.defaultFormatter": "1000ch.svgo",
   },
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[xml]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[yaml]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "markdown.extension.toc.updateOnSave": false,
@@ -113,11 +112,11 @@
     "stylus",
     "xml",
     "svg",
-    "json5"
+    "json5",
   ],
   "files.associations": {
     ".env": "dotenv",
-    "*.rs": "rust"
+    "*.rs": "rust",
   },
   "------------------- extensions -------------------": null,
   "ts-type-expand.tsconfigPath": "packages/components/tsconfig.json",
@@ -129,13 +128,13 @@
   "stylelint.validate": ["css", "less", "postcss", "scss"],
   "npm.keybindingsChangedWarningShown": true,
   "search.exclude": {
-    "yarn.lock": true
+    "yarn.lock": true,
   },
   "grammarly.files.include": [
     "**/README.md",
     "**/readme.md",
     "**/*.txt",
-    "**/*.mdx"
+    "**/*.mdx",
   ],
   "grammarly.startTextCheckInPausedState": true,
   "react-native-tools.showUserTips": false,
@@ -143,10 +142,10 @@
     "*": true,
     "plaintext": false,
     "markdown": false,
-    "scminput": false
+    "scminput": false,
   },
   "terminal.integrated.env.osx": {
-    "FIG_NEW_SESSION": "1"
+    "FIG_NEW_SESSION": "1",
   },
   "breadcrumbs.enabled": false,
   "ruby.rubocop.useBundler": true,
@@ -155,25 +154,24 @@
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "github.copilot.advanced": {},
   "workbench.activityBar.location": "hidden",
-  "window.commandCenter": true,
   "workbench.editor.tabActionCloseVisibility": false,
   "apc.electron": {
     "titleBarStyle": "hidden",
     "trafficLightPosition": {
       "x": -100,
-      "y": -100
-    }
+      "y": -100,
+    },
   },
   "apc.sidebar.titlebar": {},
   "apc.menubar.compact": true,
   "editor.stickyScroll.enabled": false,
   "git.openRepositoryInParentFolders": "always",
   "[mdx]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "editor.linkedEditing": true,
   "rubyLsp.rubyVersionManager": {
-    "identifier": "custom"
+    "identifier": "custom",
   },
   "direnv.restart.automatic": true,
   "github.copilot.editor.enableAutoCompletions": true,
@@ -186,24 +184,20 @@
   "nix.serverPath": "nil",
   // "cursor.cmdk.useThemedDiffBackground": true,
   "custom-ui-style.electron": {
-    "frame": false
+    "frame": false,
   },
   "custom-ui-style.font.sansSerif": "'IBM Plex Sans', -apple-system",
-  "cursor.cpp.disabledLanguages": [
-    "plaintext",
-    "markdown",
-    "scminput"
-  ],
+  "cursor.cpp.disabledLanguages": ["plaintext", "markdown", "scminput"],
   "window.titleBarStyle": "native",
   "workbench.editorAssociations": {
     "*.copilotmd": "vscode.markdown.preview.editor",
-    "*.svg": "default"
+    "*.svg": "default",
   },
-  "python.languageServer": "Pylance",
+  "python.languageServer": "None",
   "remote.SSH.remotePlatform": {
     "coder-vscode.workstations.production.hover.to--jamierolfs--gml-engine-comfyui.main": "linux",
     "coder-vscode.workstations.production.hover.to--jamierolfs--gml-engine-jamie-test-home.main": "linux",
-    "coder-vscode.workstations.production.hover.to--jamierolfs--gml-engine-jamie.main": "linux"
+    "coder-vscode.workstations.production.hover.to--jamierolfs--gml-engine-jamie.main": "linux",
   },
   "remote.SSH.connectTimeout": 1800,
   "eslint.rules.customizations": [],
@@ -215,22 +209,22 @@
           "id": "jamieLintToggle",
           "value": [
             {
-              "eslint.options": { "overrideConfigFile": null }
+              "eslint.options": { "overrideConfigFile": null },
             },
             {
               "eslint.options": {
-                "overrideConfigFile": "jamie.eslint.config.mjs"
-              }
-            }
-          ]
-        }
+                "overrideConfigFile": "jamie.eslint.config.mjs",
+              },
+            },
+          ],
+        },
       },
-      "eslint.restart"
-    ]
+      "eslint.restart",
+    ],
   },
   "editor.minimap.enabled": false,
   "eslint.options": {
-    "overrideConfigFile": null
+    "overrideConfigFile": null,
   },
   "coder.insecure": true,
   "biome.suggestInstallingGlobally": false,
@@ -240,17 +234,17 @@
   "extensions.ignoreRecommendations": true,
   "update.releaseTrack": "prerelease",
   "extensions.experimental.affinity": {
-    "asvetliakov.vscode-neovim": 1
+    "asvetliakov.vscode-neovim": 1,
   },
   "unocss.root": ".",
-  "unocss.languageIds": [
-    "vue",
-    "html",
-    "markdown"
-  ],
+  "unocss.languageIds": ["vue", "html", "markdown"],
   "[vue]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "workbench.navigationControl.enabled": false,
-  "window.customTitleBarVisibility": "never"
+  "window.customTitleBarVisibility": "never",
+  "workbench.layoutControl.enabled": false,
+  "git.blame.editorDecoration.enabled": true,
+  "gitlens.currentLine.enabled": false,
+  "claudeCode.preferredLocation": "sidebar",
 }
